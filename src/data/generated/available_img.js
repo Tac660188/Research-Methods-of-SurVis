@@ -1,0 +1,1 @@
+const availableImg = ["akita2016deep","Beck2016Visual","gupta2023stock","kumar2018comparative","qiu2020forecasting","rouf2021stock","selvin2017stock","singh2011causal","staudemeyer2019understanding","zarei2019impact","zhang2011empirical"];
